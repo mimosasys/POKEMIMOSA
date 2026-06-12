@@ -15,12 +15,34 @@
   "connections": [
     {
       "map": "MAP_MMROUTE101",
-      "offset": 15,
+      "offset": -8,
       "direction": "down"
     }
   ],
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "x": 39,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_MM_PORT_MULBERRY",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 30,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_MM_PORT_MULBERRY",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 30,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_MM_PORT_MULBERRY",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

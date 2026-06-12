@@ -9330,17 +9330,17 @@
       "width": 70,
       "height": 38,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Mauville",
+      "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/MM_PortMulberry/border.bin",
       "blockdata_filepath": "data/layouts/MM_PortMulberry/map.bin"
     },
     {
       "id": "LAYOUT_MM_ROUTE101",
       "name": "MMRoute101_Layout",
-      "width": 24,
+      "width": 68,
       "height": 40,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_PalletTown",
+      "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/MMRoute101/border.bin",
       "blockdata_filepath": "data/layouts/MMRoute101/map.bin"
     }
