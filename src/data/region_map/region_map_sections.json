@@ -850,6 +850,38 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_MM_PUCE_CITY",
+      "name": "Puce City",
+      "x": 4,
+      "y": 5,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MM_VERDIGRIS_CITY",
+      "name": "Verdigris City",
+      "x": 3,
+      "y": 8,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MM_ZAFFRETON",
+      "name": "Zaffreton",
+      "x": 9,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MM_ROUTE102",
+      "name": "Route 102",
+      "x": 3,
+      "y": 6,
+      "width": 2,
+      "height": 2
     }
   ]
 }

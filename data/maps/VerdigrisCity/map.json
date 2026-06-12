@@ -1,24 +1,18 @@
 {
-  "id": "MAP_MMROUTE101",
-  "name": "MMRoute101",
-  "layout": "LAYOUT_MM_ROUTE101",
+  "id": "MAP_VERDIGRIS_CITY",
+  "name": "VerdigrisCity",
+  "layout": "LAYOUT_MM_VERDIGRIS_CITY",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_MM_ROUTE101",
+  "region_map_section": "MAPSEC_MM_VERDIGRIS_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_ROUTE",
+  "map_type": "MAP_TYPE_CITY",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_MM_PORT_MULBERRY",
-      "offset": 8,
-      "direction": "up"
-    }
-  ],
+  "connections": null,
   "object_events": [],
   "warp_events": [],
   "coord_events": [],

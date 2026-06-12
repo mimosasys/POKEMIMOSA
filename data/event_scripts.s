@@ -1740,4 +1740,12 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/PortMulberry/scripts.inc"
 
-	.include "data/maps/MMRoute101/scripts.inc"
+	.include "data/maps/MM_Route101/scripts.inc"
+
+	.include "data/maps/PuceCity/scripts.inc"
+
+	.include "data/maps/Zaffreton/scripts.inc"
+
+	.include "data/maps/VerdigrisCity/scripts.inc"
+
+	.include "data/maps/MM_Route102/scripts.inc"

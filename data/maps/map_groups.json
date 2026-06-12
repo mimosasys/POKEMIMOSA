@@ -1164,9 +1164,13 @@
     "SevenIsland_SevaultCanyon_House_Frlg"
   ],
   "gMapGroup_MM_Routes": [
-    "MMRoute101"
+    "MM_Route101",
+    "MM_Route102"
   ],
   "gMapGroup_MM_Towns": [
-    "PortMulberry"
+    "PortMulberry",
+    "PuceCity",
+    "VerdigrisCity",
+    "Zaffreton"
   ]
 }
