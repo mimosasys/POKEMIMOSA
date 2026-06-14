@@ -1,12 +1,12 @@
 {
-  "id": "MAP_ZAFFRETON",
-  "name": "Zaffreton",
-  "layout": "LAYOUT_MM_ZAFFRETON",
+  "id": "MAP_ALABASTERIA",
+  "name": "Alabasteria",
+  "layout": "LAYOUT_MM_ALABASTERIA",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_MM_ZAFFRETON",
+  "region_map_section": "MAPSEC_MM_ALABASTERIA",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_CITY",
+  "map_type": "MAP_TYPE_NONE",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
@@ -14,14 +14,9 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_MM_ROUTE103_EXIT",
-      "offset": 0,
-      "direction": "left"
-    },
-    {
       "map": "MAP_MM_ROUTE104",
-      "offset": -14,
-      "direction": "right"
+      "offset": -4,
+      "direction": "left"
     }
   ],
   "object_events": [],

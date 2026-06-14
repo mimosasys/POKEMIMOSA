@@ -882,6 +882,26 @@
       "y": 6,
       "width": 2,
       "height": 2
+    },
+    {
+      "id": "MAPSEC_MM_ALABASTERIA",
+      "name": "Alabasteria",
+      "x": 15,
+      "y": 8,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MM_ROUTE103",
+      "name": "Route 103",
+      "x": 3,
+      "y": 9,
+      "width": 6,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_MM_ROUTE104",
+      "name": "Route 104"
     }
   ]
 }

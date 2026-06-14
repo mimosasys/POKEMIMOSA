@@ -1,12 +1,12 @@
 {
-  "id": "MAP_VERDIGRIS_CITY",
-  "name": "VerdigrisCity",
-  "layout": "LAYOUT_MM_VERDIGRIS_CITY",
+  "id": "MAP_MM_ROUTE103",
+  "name": "MM_Route103",
+  "layout": "LAYOUT_MM_ROUTE103",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_MM_VERDIGRIS_CITY",
+  "region_map_section": "MAPSEC_MM_ROUTE103",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_CITY",
+  "map_type": "MAP_TYPE_ROUTE",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
@@ -14,14 +14,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_MM_ROUTE103_ENTRANCE",
-      "offset": 0,
-      "direction": "down"
+      "map": "MAP_MM_ROUTE103_EXIT",
+      "offset": -24,
+      "direction": "right"
     },
     {
-      "map": "MAP_MM_ROUTE102",
-      "offset": 0,
-      "direction": "up"
+      "map": "MAP_MM_ROUTE103_ENTRANCE",
+      "offset": -24,
+      "direction": "left"
     }
   ],
   "object_events": [],

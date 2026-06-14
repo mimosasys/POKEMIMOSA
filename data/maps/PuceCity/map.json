@@ -12,9 +12,84 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": null,
+  "connections": [
+    {
+      "map": "MAP_MM_ROUTE102",
+      "offset": 7,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_MM_ROUTE101",
+      "offset": 4,
+      "direction": "up"
+    }
+  ],
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "x": 36,
+      "y": 17,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 36,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 36,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 42,
+      "y": 17,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 42,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 42,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 52,
+      "y": 22,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "7"
+    },
+    {
+      "x": 48,
+      "y": 10,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "6"
+    },
+    {
+      "x": 48,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_PUCE_CITY",
+      "dest_warp_id": "6"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }

@@ -1165,12 +1165,18 @@
   ],
   "gMapGroup_MM_Routes": [
     "MM_Route101",
-    "MM_Route102"
+    "MM_Route102",
+    "MM_Route103_Entrance",
+    "MM_Route103",
+    "MM_Route103_Exit",
+    "MM_Route104",
+    "MM_Route104_Dive"
   ],
   "gMapGroup_MM_Towns": [
     "PortMulberry",
     "PuceCity",
     "VerdigrisCity",
-    "Zaffreton"
+    "Zaffreton",
+    "Alabasteria"
   ]
 }
