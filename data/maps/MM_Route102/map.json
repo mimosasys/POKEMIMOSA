@@ -20,7 +20,7 @@
     },
     {
       "map": "MAP_PUCE_CITY",
-      "offset": -7,
+      "offset": 1,
       "direction": "up"
     }
   ],
