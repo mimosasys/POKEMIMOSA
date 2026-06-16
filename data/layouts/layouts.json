@@ -9348,7 +9348,7 @@
       "id": "LAYOUT_MM_PUCE_CITY",
       "name": "MM_PuceCity_Layout",
       "width": 64,
-      "height": 42,
+      "height": 43,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/MM_PuceCity/border.bin",
@@ -9367,8 +9367,8 @@
     {
       "id": "LAYOUT_MM_VERDIGRIS_CITY",
       "name": "MM_VerdigrisCity_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 34,
+      "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/MM_VerdigrisCity/border.bin",
@@ -9398,7 +9398,7 @@
       "id": "LAYOUT_MM_ROUTE103_ENTRANCE",
       "name": "MM_Route103_Entrance_Layout",
       "width": 20,
-      "height": 50,
+      "height": 54,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/MM_Route103_Entrance/border.bin",
@@ -9443,6 +9443,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/MM_Route104_Dive/border.bin",
       "blockdata_filepath": "data/layouts/MM_Route104_Dive/map.bin"
+    },
+    {
+      "id": "LAYOUT_MM_WIND_FARM",
+      "name": "MM_WindFarm_Layout",
+      "width": 36,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BattleFactory",
+      "border_filepath": "data/layouts/MM_WindFarm/border.bin",
+      "blockdata_filepath": "data/layouts/MM_WindFarm/map.bin"
     }
   ]
 }

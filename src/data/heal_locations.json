@@ -360,13 +360,13 @@
       "id": "HEAL_LOCATION_PUCE_CITY",
       "map": "MAP_PUCE_CITY",
       "x": 33,
-      "y": 11
+      "y": 12
     },
     {
       "id": "HEAL_LOCATION_VERDIGRIS_CITY",
       "map": "MAP_VERDIGRIS_CITY",
-      "x": 10,
-      "y": 10
+      "x": 14,
+      "y": 16
     },
     {
       "id": "HEAL_LOCATION_ZAFFRETON",

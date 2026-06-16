@@ -76,7 +76,8 @@
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
     "gMapGroup_MM_Routes",
-    "gMapGroup_MM_Towns"
+    "gMapGroup_MM_Towns",
+    "gMapGroup_MM_Misc"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1178,5 +1179,8 @@
     "VerdigrisCity",
     "Zaffreton",
     "Alabasteria"
+  ],
+  "gMapGroup_MM_Misc": [
+    "MM_WindFarm"
   ]
 }

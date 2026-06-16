@@ -15,13 +15,18 @@
   "connections": [
     {
       "map": "MAP_MM_ROUTE103",
-      "offset": 24,
+      "offset": 28,
       "direction": "right"
     },
     {
       "map": "MAP_VERDIGRIS_CITY",
-      "offset": 0,
+      "offset": -4,
       "direction": "up"
+    },
+    {
+      "map": "MAP_MM_WIND_FARM",
+      "offset": 10,
+      "direction": "left"
     }
   ],
   "object_events": [],
