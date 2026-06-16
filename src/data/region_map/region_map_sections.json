@@ -905,7 +905,11 @@
     },
     {
       "id": "MAPSEC_MM_WIND_FARM",
-      "name": "Wind Farm"
+      "name": "Wind Farm",
+      "x": 2,
+      "y": 9,
+      "width": 1,
+      "height": 1
     }
   ]
 }
