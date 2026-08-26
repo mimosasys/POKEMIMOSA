@@ -9453,6 +9453,16 @@
       "secondary_tileset": "gTileset_BattleFactory",
       "border_filepath": "data/layouts/MM_WindFarm/border.bin",
       "blockdata_filepath": "data/layouts/MM_WindFarm/map.bin"
+    },
+    {
+      "id": "LAYOUT_MM_TRAIN_VERTICAL",
+      "name": "TRAIN_VERTICAL_Layout",
+      "width": 11,
+      "height": 19,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/TRAIN_VERTICAL/border.bin",
+      "blockdata_filepath": "data/layouts/TRAIN_VERTICAL/map.bin"
     }
   ]
 }

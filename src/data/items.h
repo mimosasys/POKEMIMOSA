@@ -15832,6 +15832,24 @@ const struct ItemInfo gItemsInfo[] =
         .iconPic = gItemIcon_PokeshiDoll,
         .iconPalette = gItemIconPalette_PokeshiDoll,
     },
+
+    // MIMOSA ITEMS
+
+    [ITEM_METRO_PASS] =
+    {
+        .name = ITEM_NAME("Metro Pass"),
+        .price = 0,
+        .description = COMPOUND_STRING(
+            "Grants you access\n"
+            "to the regional\n"
+            "transport system."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_BAG_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
+        .iconPic = gItemIcon_QuestionMark,
+        .iconPalette = gItemIconPalette_QuestionMark,
+    },
 };
 
 #undef ITEM_NAME

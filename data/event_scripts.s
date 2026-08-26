@@ -1763,3 +1763,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/MM_Route104_Dive/scripts.inc"
 
 	.include "data/maps/MM_WindFarm/scripts.inc"
+
+	.include "data/maps/TRAIN_VERTICAL/scripts.inc"

@@ -1181,6 +1181,7 @@
     "Alabasteria"
   ],
   "gMapGroup_MM_Misc": [
-    "MM_WindFarm"
+    "MM_WindFarm",
+    "TRAIN_VERTICAL"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "MAP_MM_PORT_MULBERRY",
   "name": "PortMulberry",
   "layout": "LAYOUT_MM_PORT_MULBERRY",
-  "music": "MUS_DUMMY",
+  "music": "MUS_BW_VS_KYUREM",
   "region_map_section": "MAPSEC_MM_PORT_MULBERRY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
