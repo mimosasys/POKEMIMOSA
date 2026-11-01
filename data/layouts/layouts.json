@@ -9367,7 +9367,7 @@
     {
       "id": "LAYOUT_MM_VERDIGRIS_CITY",
       "name": "MM_VerdigrisCity_Layout",
-      "width": 34,
+      "width": 42,
       "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",

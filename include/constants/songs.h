@@ -1104,8 +1104,9 @@
 #define MUS_BW_RELIC_SONG 1164
 #define MUS_BW_VS_WCS_CHAMPION 1165
 #define MUS_BW_OBTAIN_BERRY 1166
+#define MUS_MIMI_BATTLE_WILD        1167
 
-#define END_MUS                     MUS_BW_OBTAIN_BERRY
+#define END_MUS                     MUS_MIMI_BATTLE_WILD
 
 #define MUS_ROUTE118                0x7FFF  // Map is split into 2 music sections. controlled by GetCurrLocationDefaultMusic().
 
